@@ -28,7 +28,7 @@ Solved a beginner-level coding problem on HackerRank and created a Digital Liter
 Drafted two professional emails and prepared a social media Do’s and Don’ts checklist.
 
 ### Task 5: Cybercrime Awareness
-Prepared a case study on UPI fraud and created a prevention checklist to promote online safety.
+Prepared a case study on Identity Theft and created a prevention checklist to promote online safety.
 
 ---
 
